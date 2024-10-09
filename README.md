@@ -1,1 +1,1 @@
-# cat-knight
+# Cat Knight
